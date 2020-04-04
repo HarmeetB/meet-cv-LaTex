@@ -1,6 +1,6 @@
 # Harmeet Bawa CV
 
-Pdf: [harmeet_cv.pdf](https://tajinder.info.gitlab.io/harmeet-cv/cv.pdf)
+Pdf: [harmeet_cv.pdf](https://taji2.gitlab.io/harmeet-cv/cv.pdf)
 
 Built using LaTeX. 
 

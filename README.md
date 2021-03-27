@@ -11,4 +11,8 @@ PDF file: https://github.com/HarmeetB/meet-cv-LaTex/releases/download/latest-cv/
 =======
 
 //rebase-1
+<<<<<<< HEAD
 >>>>>>> 9cf90a8 (rebase 1)
+=======
+//rebase-2
+>>>>>>> 63a9d65 (rebase-2)
